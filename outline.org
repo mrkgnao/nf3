@@ -1,0 +1,17 @@
+* Questions to answer
+** What do these words mean?
+*** Provide appropriate background in
+- algebraic number theory
+- class field theory
+- algebraic geometry
+** Who came up with this?
+*** Survey existing literature
+- Neukirch's stuff
+** What things have people done with this?
+*** Exciting, "big" theorems
+- The Weil conjectures were proven using this philosophy
+** Why is it so effective?
+*** Add in some philosophy
+** What are people doing with it today?
+*** TODO Are there any connections to the Langlands program?
+   
