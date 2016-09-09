@@ -1,4 +1,4 @@
-* Questions to answer
+* Questions to ask, and answer
 ** What do these words mean?
 *** Provide appropriate background in
 - algebraic number theory
@@ -12,6 +12,7 @@
 - The Weil conjectures were proven using this philosophy
 ** Why is it so effective?
 *** Add in some philosophy
+*** TODO MO question?
 ** What are people doing with it today?
 *** TODO Are there any connections to the Langlands program?
    
