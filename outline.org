@@ -1,11 +1,11 @@
 * Questions to ask, and answer
-** What do these words mean?
+** What do /those/ words mean?
 *** Provide appropriate background in
 - algebraic number theory
-- class field theory
+- class field theory (:3)
 - algebraic geometry
 ** Who came up with this?
-*** Survey existing literature
+*** TODO Survey existing literature
 - Neukirch's stuff
 ** What things have people done with this?
 *** Exciting, "big" theorems
@@ -16,3 +16,16 @@
 ** What are people doing with it today?
 *** TODO Are there any connections to the Langlands program?
    
+* Papers
+** Artin-Whaples
+*** TODO Form a preliminary idea of what's going on
+*** TODO How are they doing it?
+*** TODO Write up a summary, omitting proofs where required
+
+* Things to think about
+** Release the schemes
+
+* Other links
+** nLab page
+- https://ncatlab.org/nlab/show/function+field+analogy
+** 
