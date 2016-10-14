@@ -1,0 +1,21 @@
+
+artin-whaples/notes.tex,1045
+\tableofcontentsMain theorem31,713
+If a field satisfies the valuation product formula, and if one of those valuations is of a suitable type, then it is forced to be either a number field or a function field.Valuations36,780
+\label{sec:orgheadline6}bfseries sffamily TODO39,975
+\label{sec:orgheadline2}Lemmas41,1091
+\end{itemize}Approximation theorem48,1621
+\[|\alpha - \alpha_i|_i < \epsilon.\]Corollary52,1832
+This ``precludes the possibility that a finite number of valuations can ever be interrelated'', to paraphrase the original, but maybe an infinite number of valuations is okay?The product formula58,2102
+\label{sec:orgheadline26}Axiom 160,2308
+\[ \val6{(0)} \cdot\val6{(2)}\cdot\val6{(3)} = 6\cdot 2^{-1} \cdot 3^{-1} = 1 \]Id les70,2690
+We associate to \(M\) a space of vectors \(v={ (v_\pp) }_\pp\), where \(v_\pp \in k_\pp\). We will write \(\val v\pp\) for \(\val{v_\pp}\pp\).Definition73,2818
+\end{itemize}Embedding80,3148
+\[\alpha\mapsto{ (i_\pp(\alpha)) }_\pp\]Volume84,3363
+\end{enumerate}Order95,3922
+
+artin-whaples/auto/notes.el,0
+
+preamble.tex,0
+
+main.tex,0
